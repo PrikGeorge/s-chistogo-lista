@@ -302,14 +302,14 @@ blockquote {
     font-weight: 400;
 }
 
-.footer{
+.footer {
     padding: 20px;
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #fee42a;
 }
 
-.footer__copy{
+.footer__copy {
 
     font-family: Inter, sans-serif;
     font-size: 16px;
@@ -319,14 +319,14 @@ blockquote {
 
 }
 
-.footer__links{
+.footer__links {
     display: flex;
     align-items: flex-start;
     gap: 16px;
     list-style: none;
 }
 
-.footer__text{
+.footer__text {
 
     font-family: Inter, sans-serif;
     font-size: 14px;
